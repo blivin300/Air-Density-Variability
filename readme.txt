@@ -13,4 +13,4 @@ Uploaded 31/3/2025
 
 NorthSouth.m : extracts historical variables from NASA for two locations then compares air density and wind speed for a wind turbine at each location over a 25 year period. 
 MultipleLocations.m : extracts several locations and plots them using GeoBaseMap and GeoBaseScatter
-
+variable_comparison.m : calculates the dynamic and constant air density and determines the difference for each location
